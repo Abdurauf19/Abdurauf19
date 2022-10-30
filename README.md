@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Abdurauf19
-- 👀 I’m interested in javaScript
-- 🌱 I’m currently learning 
+- 👋 Hi, I’m Abdurauf
+- 👀 I’m interested in Javascript
+- 🌱 I’m currently learning JS
 
 
 <!---
